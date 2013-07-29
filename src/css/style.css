@@ -1072,6 +1072,7 @@ h6{ font-size: 20px; }
 #commentform textarea{
 	color: #606060;
 	font-size: 14px;
+    width: 320px;
 }
 
 #sc-contact-form label,
