@@ -8,7 +8,7 @@
     <file path="/style.css" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1375055039827" ignored="false" />
     <file path="/nivo-slider.css" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1374815379009" ignored="false" />
     <file path="/contact.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1375211433131" ignored="false" />
-    <file path="/features.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1375062695432" ignored="false" />
+    <file path="/features.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1375216671636" ignored="false" />
     <file path="$PROJECT_DIR$/../../view/src/profile.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1375118282142" ignored="false" />
     <file path="$PROJECT_DIR$/../../oursiteflip/oursiteflip/index.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1375157395256" ignored="false" />
     <file path="$PROJECT_DIR$/../../oursiteflip/oursiteflip/enviar.php" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1375157831873" ignored="false" />
@@ -83,7 +83,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="360" column="8" selection-start="16473" selection-end="16572" vertical-scroll-proportion="-2.5921052">
+            <state line="289" column="0" selection-start="13071" selection-end="16600" vertical-scroll-proportion="-2.4078948">
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1375210956093" expanded="true" signature="1295:1365" placeholder="..." />
@@ -100,10 +100,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="314" column="40" selection-start="11901" selection-end="11901" vertical-scroll-proportion="0.47175142">
+            <state line="314" column="40" selection-start="11901" selection-end="11901" vertical-scroll-proportion="-3.27451">
               <folding>
                 <element signature="n#style#0;n#p#1;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -123,13 +123,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="features.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="features.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/features.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="174" column="48" selection-start="6372" selection-end="6372" vertical-scroll-proportion="0.0">
+            <state line="312" column="20" selection-start="12242" selection-end="12242" vertical-scroll-proportion="0.94237286">
               <folding>
-                <marker date="1375062705012" expanded="false" signature="1287:1357" placeholder="..." />
-                <marker date="1375062705012" expanded="false" signature="1297:1310" placeholder="/*...*/" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1375216715148" expanded="true" signature="1287:1357" placeholder="..." />
+                <marker date="1375216715148" expanded="true" signature="1297:1310" placeholder="/*...*/" />
               </folding>
             </state>
           </provider>
@@ -168,9 +169,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/css/nivo-slider.css" />
         <option value="$PROJECT_DIR$/src/css/style.css" />
-        <option value="$PROJECT_DIR$/src/features.html" />
         <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/contact.html" />
+        <option value="$PROJECT_DIR$/src/features.html" />
       </list>
     </option>
   </component>
@@ -426,7 +427,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32866043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3419773" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -441,7 +442,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15235008" sideWeight="0.6713396" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3252595" sideWeight="0.6629393" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -552,16 +553,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/features.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="174" column="48" selection-start="6372" selection-end="6372" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1375062705012" expanded="false" signature="1287:1357" placeholder="..." />
-            <marker date="1375062705012" expanded="false" signature="1297:1310" placeholder="/*...*/" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -599,9 +590,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="314" column="40" selection-start="11901" selection-end="11901" vertical-scroll-proportion="-3.27451">
+          <folding>
+            <element signature="n#style#0;n#p#1;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1375211659771" expanded="true" signature="1295:1365" placeholder="..." />
+            <marker date="1375211659771" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="360" column="8" selection-start="16473" selection-end="16572" vertical-scroll-proportion="-2.5921052">
+        <state line="289" column="0" selection-start="13071" selection-end="16600" vertical-scroll-proportion="-2.4078948">
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1375210956093" expanded="true" signature="1295:1365" placeholder="..." />
@@ -610,14 +613,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/contact.html">
+    <entry file="file://$PROJECT_DIR$/src/features.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="314" column="40" selection-start="11901" selection-end="11901" vertical-scroll-proportion="0.47175142">
+        <state line="312" column="20" selection-start="12242" selection-end="12242" vertical-scroll-proportion="0.94237286">
           <folding>
-            <element signature="n#style#0;n#p#1;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1375211659771" expanded="true" signature="1295:1365" placeholder="..." />
-            <marker date="1375211659771" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+            <marker date="1375216715148" expanded="true" signature="1287:1357" placeholder="..." />
+            <marker date="1375216715148" expanded="true" signature="1297:1310" placeholder="/*...*/" />
           </folding>
         </state>
       </provider>
