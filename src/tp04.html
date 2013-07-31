@@ -83,13 +83,13 @@
 
 </head>
 
-<body>
+<body class="home">
 
 <!-- HEADER -->
 <div id="header">
     <!-- wrapper-header -->
     <div class="wrapper">
-        <a href="index.html"><img id="logo" src="img/logo2.png" alt="Tecno-Partes"/></a>
+        <a href="index.html"><img id="logo" src="img/logo2.png" alt="Nova"/></a>
 
     </div>
     <!-- ENDS wrapper-header -->
@@ -111,9 +111,9 @@
                 <li><a href="features.html">La Empresa</a>
 
                 </li>
-                <li><a href="gallery.html">Productos</a></li>
+                <li class="current-menu-item"><a href="gallery.html">Productos</a></li>
                 <li><a href="portfolio.html">Novedades</a></li>
-                <li class="current-menu-item"><a href="contact.html">Contacto</a></li>
+                <li><a href="contact.html">Contacto</a></li>
             </ul>
             <!-- Navigation -->
         </div>
@@ -122,118 +122,102 @@
     <!-- ENDS menu-holder -->
 </div>
 <!-- ENDS Menu -->
+			
+			
+			
+
+			
+			<!-- MAIN -->
+			<div id="main">
+				<!-- wrapper-main -->
+				<div class="wrapper">
+					
+					<!-- content -->
+					<div id="content">
+						
+						<!-- title -->
+						<div id="page-title">
+							<span class="title">Cabina Modelo HJ</span>
+							<span class="subtitle">Cabina agrícola.</span>
+						</div>
+						<!-- ENDS title -->
+		
+						<!-- project column (left)-->
+						<div class="project-column">
+							<!-- shadow -->
+							<div class="project-shadow">
+								<div class="project-thumbnail"><img src="img/productos/hj_main.jpg"  alt="Feature image" /></div>
+								<!-- meta -->
+
+								<!-- ENDS meta -->
+								<div class="portfolio-left-shadow"></div>
+							</div>
+							<!-- ENDS shadow -->
+							
+							
+							<!-- project gallery -->
+							<h2>Imágenes de esta cabina</h2>
+							<ul class="project-gallery">
+                                <li><a href="img/productos/hj_1_big.jpg" class="fancybox"><img src="img/productos/hj_1.jpg" alt="Pic"></a></li>
+                                <li><a href="img/productos/hj_2_big.jpg" class="fancybox"><img src="img/productos/hj_2.jpg" alt="Pic"></a></li>
+                                <li><a href="img/productos/hj_3_big.jpg" class="fancybox"><img src="img/productos/hj_3.jpg" alt="Pic"></a></li>
+                                <li><a href="img/productos/hj_4_big.jpg" class="fancybox"><img src="img/productos/hj_4.jpg" alt="Pic"></a></li>
+							</ul>
+							<!-- ENDS project gallery -->
+							
+							
+						</div>
+						<!-- ENDS project column (left)-->
 
 
-<!-- MAIN -->
-<div id="main">
-    <!-- wrapper-main -->
-    <div class="wrapper">
+						<!--project column (right) -->
+						<div class="project-column">
+                            <h1 class="project-title">Descripción:</h1>
+                            <p>Esta cabina está completamente equipada para satisfacer sus necesidades, Sus espejos retrovisores y su iluminación tanto interna
+                             como externa, facilitarán el desempeño de sus tareas.</p>
 
-        <!-- content -->
-        <div id="content">
+							<h1 class="project-title">Detalles:</h1>
+                            <p style="margin-bottom: 5px;"><strong>> </strong>Estructura metálica</p>
+                            <p style="margin-bottom: 5px;"><strong>> </strong>Techo, frente y posterior realizados en P.R.F.V.</p>
+                            <p style="margin-bottom: 5px;"><strong>> </strong>Vidrios tonalizados y templados</p>
+                            <p style="margin-bottom: 5px;"><strong>> </strong>Parabrisas panorámico curvo</p>
+                            <p style="margin-bottom: 5px;"><strong>> </strong>Puerta lateral, ventana lateral móvil y luneta fija</p>
+                            <p style="margin-bottom: 5px;"><strong>> </strong>Dos espejos retrovisores en el exterior de la cabina</p>
+                            <p style="margin-bottom: 5px;"><strong>> </strong>Limpiaparabrisas Eléctrico</p>
+                            <p style="margin-bottom: 5px;"><strong>> </strong>Dos Faros de trabajo exteriores</p>
+                            <p><strong>> </strong>Luz Interior</p>
+                            <p><strong>Color a elección del cliente</strong></p>
 
-            <!-- title -->
-            <div id="page-title">
-                <span class="title">Contactanos</span>
-            </div>
-            <!-- ENDS title -->
+                            <h1 class="project-title">Medidas:</h1>
+                            <p><strong>Altura: </strong> 1,63 Mts.</p>
+                            <p><strong>Ancho: </strong> 1,35 Mts.</p>
+                            <p><strong>Largo: </strong> 1 Mts.</p>
 
-            <!-- column (left)-->
-            <div class="one-column">
-                <!-- form -->
-                <h2>Deja tu comentario:</h2> <br/>
-
-                <form id="contactForm" action="enviar.php" method="post">
-                    <fieldset>
-                        <div>
-
-                            <label>Nombre Completo:</label>
-                            <input name="nombre" class="form-poshytip" id="nombre" type="text"
-                                   placeholder="Nombre Completo"
-                                   required="required"
-                                   autofocus="autofocus" maxlength="20"/>
                         </div>
+						<div class="clear"></div>
+						<!-- ENDS project column (right) -->
+						
+						
+					</div>
+					<!-- ENDS content -->
 
-                        <div>
-
-                            <label>Compañia:</label>
-                            <input name="empresa" class="form-poshytip" id="empresa" type="text"
-                                   placeholder="Nombre Compañia"
-
-                                   autofocus="autofocus" maxlength="20"/>
-                        </div>
-
-                        <div>
-                            <label>Teléfono:</label>
-                            <input name="telefono" class="form-poshytip" id="telefono" type="tel"
-                                   placeholder="011-4444-4444"
-                                   />
-                        </div>
-
-                        <div>
-                            <label>E-mail:</label>
-                            <input name="email" class="form-poshytip" id="email" type="email"
-                                   placeholder="ejemplo@ejemlo.com"
-                                   required="required"/>
-                        </div>
-
-                        <div>
-                            <label>Mensaje:</label>
-                            <textarea name="mensaje" class="form-poshytip" cols="10" rows="10"
-                                      placeholder="Ingrese su mensaje:"
-                                      required="required"></textarea>
-                            <!--<button name="btsend" id="btsend" type="submit" class="button1">Enviar</button>-->
-                        </div>
-
-                        <div>
-                            <br>
-                            <button name="btsend" id="btsend" type="submit" class="link-button">Enviar</button>
-                        </div>
-                    </fieldset>
-
-                </form>
-
-            </div>
-            <!-- ENDS column -->
-
-            <!-- column (right)-->
-            <div class="one-column">
-                <!-- content -->
-                <p><img style="border-radius: 15px;" src="img/dummies/mapa.png" alt="map"></p>
-
-                <p style="background:#f5f5f5; border-radius: 15px; text-align: center; width: 375px;">Andonaegui
-                    5676<br/>
-                    Gonzalez Catán<br/>
-                    Buenos Aires<br/>
-                    Argentina<br/>
-                    Tel: 011-5274-8501/8516
-                    Tel/FAX: (02202) 431260
-                    comercializacion@tecno-partes.com.ar</p>
-                <!-- ENDS content -->
-            </div>
-            <!-- ENDS column -->
-
-        </div>
-        <!-- ENDS content -->
-
-    </div>
-    <!-- ENDS wrapper-main -->
-</div>
-<!-- ENDS MAIN -->
-
-<!-- Twitter -->
-<div id="twitter">
-    <div class="wrapper">
-        <a href="#" id="prev-tweet"></a>
-        <a href="#" id="next-tweet"></a>
-        <img id="bird" src="img/bird.png" alt="Tweets"/>
-
-        <div id="tweets">
-            <ul class="tweet_list"></ul>
-        </div>
-    </div>
-</div>
-<!-- ENDS Twitter -->
+				</div>
+				<!-- ENDS wrapper-main -->
+			</div>
+			<!-- ENDS MAIN -->
+			
+			<!-- Twitter -->
+			<div id="twitter">
+				<div class="wrapper">
+					<a href="#" id="prev-tweet"></a>
+					<a href="#" id="next-tweet"></a>
+					<img id="bird" src="img/bird.png" alt="Tweets" />
+					<div id="tweets">
+						<ul class="tweet_list"></ul>
+					</div>
+				</div>
+			</div>
+			<!-- ENDS Twitter -->
 
 
 <!-- FOOTER -->
@@ -295,14 +279,11 @@
 </div>
 <!-- ENDS FOOTER -->
 
-
 <!-- Bottom -->
 <div id="bottom">
     <!-- wrapper-bottom -->
     <div class="wrapper">
-        <div id="bottom-text">Powered by <a href="http://www.flipstudios.com.ar"><img style="margin-bottom: -16px;"
-                                                                                    src="img/footer/logo_footer.png"></a>
-        </div>
+        <div id="bottom-text">Powered by <a href="http://www.flipstudios.com.ar"><img style="margin-bottom: -16px;" src="img/footer/logo_footer.png"></a></div>
         <!-- Social -->
         <ul class="social ">
             <li><a href="http://www.facebook.com" class="poshytip  facebook" title="Visitanos en facebook"></a></li>
@@ -311,8 +292,8 @@
         </ul>
         <!-- ENDS Social -->
         <div id="to-top" class="poshytip" title="To top"></div>
-            </div>
-            <!-- ENDS wrapper-bottom -->
+    </div>
+    <!-- ENDS wrapper-bottom -->
 </div>
 <!-- ENDS Bottom -->
 
