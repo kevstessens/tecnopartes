@@ -3,11 +3,46 @@
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="3f80f12d-0a80-4215-aa38-bfc2bae4b307" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/empresa/empresa.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/features.html" afterPath="$PROJECT_DIR$/src/features.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gallery.html" afterPath="$PROJECT_DIR$/src/gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/nivo-slider.css" afterPath="$PROJECT_DIR$/src/css/nivo-slider.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/claas/1.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/claas/1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/1.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/1.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/1.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/apache/1mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/apache/1mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/1mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/1mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/claas/2.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/claas/2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/2.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/2.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/2.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/2mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/2mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/2mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/2mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/2mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/2mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/claas/3.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/claas/3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/3.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/3.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/3.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/3mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/3mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/3mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/3mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/3mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/3mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/claas/4.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/claas/4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/4.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/4.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/4.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/4mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/4mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/4mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/4mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/4mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/4mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/5.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/5.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/5.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/5mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/5mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/5mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/5mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/5mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/5mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/6.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/6.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/6.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/6mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/6mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/6mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/6mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/6mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/6mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/metalfor_acc.html" afterPath="$PROJECT_DIR$/src/metalfor_acc.html" />
     </list>
     <ignored path="tecnoPartes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,7 +93,8 @@
     <file path="/caiman.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376494190851" ignored="false" />
     <file path="/breso.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376494362026" ignored="false" />
     <file path="/seraf.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376494461076" ignored="false" />
-    <file path="/Dummy.txt" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1377279028440" ignored="false" />
+    <file path="/Dummy.txt" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1377284803109" ignored="false" />
+    <file path="/metalfor_acc.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1377286288826" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,16 +216,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="multijacto.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="multijacto.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/multijacto.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="136" column="56" selection-start="4636" selection-end="4636" vertical-scroll-proportion="0.02538071">
+            <state line="136" column="56" selection-start="4636" selection-end="4636" vertical-scroll-proportion="-0.625">
               <folding>
                 <element signature="n#style#0;n#p#1;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#2;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1376519955000" expanded="true" signature="1295:1365" placeholder="..." />
                 <marker date="1376519955000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="metalfor_acc.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/metalfor_acc.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="170" column="45" selection-start="5457" selection-end="6560" vertical-scroll-proportion="0.5811808">
+              <folding>
+                <marker date="1377286309000" expanded="true" signature="1295:1365" placeholder="..." />
+                <marker date="1377286309000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
               </folding>
             </state>
           </provider>
@@ -213,7 +261,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/tp04.html" />
         <option value="$PROJECT_DIR$/src/bc01.html" />
         <option value="$PROJECT_DIR$/src/js/superfish-1.4.8/js/superfish.js" />
         <option value="$PROJECT_DIR$/src/tedeschi.html" />
@@ -229,6 +276,7 @@
         <option value="$PROJECT_DIR$/src/grigol.html" />
         <option value="$PROJECT_DIR$/src/marani.html" />
         <option value="$PROJECT_DIR$/src/multijacto.html" />
+        <option value="$PROJECT_DIR$/src/metalfor_acc.html" />
       </list>
     </option>
   </component>
@@ -268,6 +316,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -286,9 +335,118 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnoPartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnopartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnoPartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnopartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnoPartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnopartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="productos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnoPartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnopartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="productos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accesorios" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnoPartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnopartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="productos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accesorios" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="claas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -360,13 +518,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1296" height="776" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4752" sideWeight="0.6629393" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4832" sideWeight="0.6629393" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -454,16 +612,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/js/superfish-1.4.8/js/superfish.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="27" selection-start="2908" selection-end="2908" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="116" column="30" selection-start="4250" selection-end="4250" vertical-scroll-proportion="-0.65384614">
-          <folding />
-        </state>
+        <state line="116" column="30" selection-start="4250" selection-end="4250" vertical-scroll-proportion="-0.65384614" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tp03.html">
@@ -547,13 +698,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/multijacto.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="56" selection-start="4636" selection-end="4636" vertical-scroll-proportion="0.02538071">
+        <state line="136" column="56" selection-start="4636" selection-end="4636" vertical-scroll-proportion="-0.625">
           <folding>
             <element signature="n#style#0;n#p#1;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#2;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1376519955000" expanded="true" signature="1295:1365" placeholder="..." />
             <marker date="1376519955000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metalfor_acc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="170" column="45" selection-start="5457" selection-end="6560" vertical-scroll-proportion="0.5811808">
+          <folding>
+            <marker date="1377286309000" expanded="true" signature="1295:1365" placeholder="..." />
+            <marker date="1377286309000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
           </folding>
         </state>
       </provider>
