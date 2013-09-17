@@ -2,60 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="3f80f12d-0a80-4215-aa38-bfc2bae4b307" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/empresa/empresa.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/claas/1.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/claas/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/1.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/1.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/1.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/apache/1mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/apache/1mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/1mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/1mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/claas/2.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/claas/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/2.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/2.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/2.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/2mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/2mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/2mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/2mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/2mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/2mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/claas/3.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/claas/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/3.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/3.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/3.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/3mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/3mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/3mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/3mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/3mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/3mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/claas/4.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/claas/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/4.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/4.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/4.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/4mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/4mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/4mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/4mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/4mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/4mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/5.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/5.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/5.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/5mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/5mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/5mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/5mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/5mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/5mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/6.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/6.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/6.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/6mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/metalfor/6mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/pla/6mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/pla/6mini.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/6mini.png" afterPath="$PROJECT_DIR$/src/img/productos/accesorios/tedeschi/6mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/apache_acc.html" afterPath="$PROJECT_DIR$/src/apache_acc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/bc01.html" afterPath="$PROJECT_DIR$/src/bc01.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/bobcat.html" afterPath="$PROJECT_DIR$/src/bobcat.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/bounus.html" afterPath="$PROJECT_DIR$/src/bounus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/breso.html" afterPath="$PROJECT_DIR$/src/breso.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/caiman.html" afterPath="$PROJECT_DIR$/src/caiman.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cat.html" afterPath="$PROJECT_DIR$/src/cat.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/catd.html" afterPath="$PROJECT_DIR$/src/catd.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/caterpillar.html" afterPath="$PROJECT_DIR$/src/caterpillar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cj.html" afterPath="$PROJECT_DIR$/src/cj.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/claas_acc.html" afterPath="$PROJECT_DIR$/src/claas_acc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/clarck.html" afterPath="$PROJECT_DIR$/src/clarck.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/confort.html" afterPath="$PROJECT_DIR$/src/confort.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/contact.html" afterPath="$PROJECT_DIR$/src/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containera.html" afterPath="$PROJECT_DIR$/src/containera.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cuchas.html" afterPath="$PROJECT_DIR$/src/cuchas.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/deere.html" afterPath="$PROJECT_DIR$/src/deere.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/desarrollos.html" afterPath="$PROJECT_DIR$/src/desarrollos.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/especial1.html" afterPath="$PROJECT_DIR$/src/especial1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/especial2.html" afterPath="$PROJECT_DIR$/src/especial2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/favot.html" afterPath="$PROJECT_DIR$/src/favot.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/features.html" afterPath="$PROJECT_DIR$/src/features.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gallery.html" afterPath="$PROJECT_DIR$/src/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/grigol.html" afterPath="$PROJECT_DIR$/src/grigol.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hj.html" afterPath="$PROJECT_DIR$/src/hj.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/holland.html" afterPath="$PROJECT_DIR$/src/holland.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/irchile.html" afterPath="$PROJECT_DIR$/src/irchile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/juegos.html" afterPath="$PROJECT_DIR$/src/juegos.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/marani.html" afterPath="$PROJECT_DIR$/src/marani.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/tecnoPartes/metalfor.html" afterPath="$PROJECT_DIR$/out/production/tecnoPartes/metalfor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/metalfor.html" afterPath="$PROJECT_DIR$/src/metalfor.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/metalfor_acc.html" afterPath="$PROJECT_DIR$/src/metalfor_acc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multijacto.html" afterPath="$PROJECT_DIR$/src/multijacto.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pla_acc.html" afterPath="$PROJECT_DIR$/src/pla_acc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/proton.html" afterPath="$PROJECT_DIR$/src/proton.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/rodillo.html" afterPath="$PROJECT_DIR$/src/rodillo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sanblas.html" afterPath="$PROJECT_DIR$/src/sanblas.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/seraf.html" afterPath="$PROJECT_DIR$/src/seraf.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/special.html" afterPath="$PROJECT_DIR$/src/special.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/spw.html" afterPath="$PROJECT_DIR$/src/spw.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/spw_acc.html" afterPath="$PROJECT_DIR$/src/spw_acc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tanque1.html" afterPath="$PROJECT_DIR$/src/tanque1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tanques2.html" afterPath="$PROJECT_DIR$/src/tanques2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tanques3.html" afterPath="$PROJECT_DIR$/src/tanques3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tanques4.html" afterPath="$PROJECT_DIR$/src/tanques4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tanques5.html" afterPath="$PROJECT_DIR$/src/tanques5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tecnoPartes.iml" afterPath="$PROJECT_DIR$/tecnoPartes.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tedeschi.html" afterPath="$PROJECT_DIR$/src/tedeschi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tedeschi_acc.html" afterPath="$PROJECT_DIR$/src/tedeschi_acc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tp03.html" afterPath="$PROJECT_DIR$/src/tp03.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tp04.html" afterPath="$PROJECT_DIR$/src/tp04.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/valtra.html" afterPath="$PROJECT_DIR$/src/valtra.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vialvieja.html" afterPath="$PROJECT_DIR$/src/vialvieja.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/yale.html" afterPath="$PROJECT_DIR$/src/yale.html" />
     </list>
     <ignored path="tecnoPartes.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376452407180" ignored="false" />
+    <file path="/index.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1379377844303" ignored="false" />
     <file path="/style.css" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376452384094" ignored="false" />
     <file path="/nivo-slider.css" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1374815379009" ignored="false" />
     <file path="/contact.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1375211433131" ignored="false" />
-    <file path="/features.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1375216671636" ignored="false" />
+    <file path="/features.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1379374843262" ignored="false" />
     <file path="$PROJECT_DIR$/../../view/src/profile.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1375118282142" ignored="false" />
     <file path="$PROJECT_DIR$/../../oursiteflip/oursiteflip/index.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1375294764202" ignored="false" />
     <file path="$PROJECT_DIR$/../../oursiteflip/oursiteflip/enviar.php" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1375157831873" ignored="false" />
     <file path="/enviar.php" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1375157831873" ignored="false" />
-    <file path="/a.dummy" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1375285521767" ignored="false" />
+    <file path="/a.dummy" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1379378424041" ignored="false" />
     <file path="$PROJECT_DIR$/../../oursiteflip/oursiteflip/work.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1375289180479" ignored="false" />
     <file path="/work.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1375289179688" ignored="false" />
     <file path="$PROJECT_DIR$/../../oursiteflip/oursiteflip/work_tecno1.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1375289486512" ignored="false" />
@@ -73,7 +89,7 @@
     <file path="/tp03.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376361376794" ignored="false" />
     <file path="/tp04.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376361408560" ignored="false" />
     <file path="/bc01.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376362398027" ignored="false" />
-    <file path="/gallery.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376494401120" ignored="false" />
+    <file path="/gallery.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1379376763137" ignored="false" />
     <file path="/superfish.js" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376375943425" ignored="false" />
     <file path="E:/Backup MI PC =)/DAMIAN M/UNIVERSIDAD AUSTRAL/ING. EN SISTEMAS/MATERIAS/IdeaProjects/oxigenaWeb/src/index.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376452714768" ignored="false" />
     <file path="E:/Backup MI PC =)/DAMIAN M/UNIVERSIDAD AUSTRAL/ING. EN SISTEMAS/MATERIAS/IdeaProjects/oxigenaWeb/src/style.css" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376452385259" ignored="false" />
@@ -93,8 +109,10 @@
     <file path="/caiman.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376494190851" ignored="false" />
     <file path="/breso.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376494362026" ignored="false" />
     <file path="/seraf.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376494461076" ignored="false" />
-    <file path="/Dummy.txt" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1377284803109" ignored="false" />
+    <file path="/Dummy.txt" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1379374726498" ignored="false" />
     <file path="/metalfor_acc.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1377286288826" ignored="false" />
+    <file path="/valtra.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1379376413486" ignored="false" />
+    <file path="/apache_acc.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1379377977242" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +127,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -143,7 +162,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -153,91 +171,121 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gallery.html">
+      <file leaf-file-name="tanques4.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tanques4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="186" column="59" selection-start="8387" selection-end="8397" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="seraf.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seraf.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="164" column="52" selection-start="5761" selection-end="5761" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="apache.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/apache.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="136" column="79" selection-start="4659" selection-end="4659" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="breso.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/breso.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="165" column="29" selection-start="5767" selection-end="5767" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="favot.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/favot.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="136" column="56" selection-start="4636" selection-end="4636" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grigol.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/grigol.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="136" column="56" selection-start="4636" selection-end="4636" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="marani.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/marani.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="136" column="56" selection-start="4636" selection-end="4636" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multijacto.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/multijacto.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="136" column="56" selection-start="4636" selection-end="4636" vertical-scroll-proportion="-0.625">
+            <state line="228" column="0" selection-start="8003" selection-end="8003" vertical-scroll-proportion="-7.25">
               <folding>
-                <element signature="n#style#0;n#p#1;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#2;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1376519955000" expanded="true" signature="1295:1365" placeholder="..." />
-                <marker date="1376519955000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+                <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="metalfor_acc.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/metalfor_acc.html">
+      <file leaf-file-name="tanques5.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tanques5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="170" column="45" selection-start="5457" selection-end="6560" vertical-scroll-proportion="0.5811808">
+            <state line="229" column="0" selection-start="8019" selection-end="8019" vertical-scroll-proportion="-7.25">
               <folding>
-                <marker date="1377286309000" expanded="true" signature="1295:1365" placeholder="..." />
-                <marker date="1377286309000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+                <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tedeschi.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tedeschi.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="231" column="0" selection-start="8513" selection-end="8513" vertical-scroll-proportion="-7.25">
+              <folding>
+                <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tedeschi_acc.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tedeschi_acc.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="231" column="0" selection-start="8850" selection-end="8850" vertical-scroll-proportion="-7.0833335">
+              <folding>
+                <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tp03.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tp03.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="227" column="0" selection-start="8971" selection-end="8971" vertical-scroll-proportion="-7.0833335">
+              <folding>
+                <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tp04.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tp04.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="241" column="0" selection-start="9267" selection-end="9267" vertical-scroll-proportion="-7.0833335">
+              <folding>
+                <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="valtra.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/valtra.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="232" column="0" selection-start="8313" selection-end="8313" vertical-scroll-proportion="-7.25">
+              <folding>
+                <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vialvieja.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vialvieja.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="227" column="0" selection-start="8218" selection-end="8218" vertical-scroll-proportion="-7.25">
+              <folding>
+                <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yale.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/yale.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="233" column="70" selection-start="8339" selection-end="8393" vertical-scroll-proportion="-12.875">
+              <folding>
+                <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="metalfor.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/out/production/tecnoPartes/metalfor.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="267" column="46" selection-start="10139" selection-end="10139" vertical-scroll-proportion="0.33186814">
+              <folding>
+                <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
               </folding>
             </state>
           </provider>
@@ -261,22 +309,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/bc01.html" />
-        <option value="$PROJECT_DIR$/src/js/superfish-1.4.8/js/superfish.js" />
-        <option value="$PROJECT_DIR$/src/tedeschi.html" />
-        <option value="$PROJECT_DIR$/src/confort.html" />
-        <option value="$PROJECT_DIR$/src/metalfor.html" />
+        <option value="$PROJECT_DIR$/src/special.html" />
         <option value="$PROJECT_DIR$/src/spw.html" />
-        <option value="$PROJECT_DIR$/src/caiman.html" />
-        <option value="$PROJECT_DIR$/src/breso.html" />
-        <option value="$PROJECT_DIR$/src/gallery.html" />
-        <option value="$PROJECT_DIR$/src/seraf.html" />
-        <option value="$PROJECT_DIR$/src/apache.html" />
-        <option value="$PROJECT_DIR$/src/favot.html" />
-        <option value="$PROJECT_DIR$/src/grigol.html" />
-        <option value="$PROJECT_DIR$/src/marani.html" />
-        <option value="$PROJECT_DIR$/src/multijacto.html" />
-        <option value="$PROJECT_DIR$/src/metalfor_acc.html" />
+        <option value="$PROJECT_DIR$/src/spw_acc.html" />
+        <option value="$PROJECT_DIR$/src/tanque1.html" />
+        <option value="$PROJECT_DIR$/src/tanques2.html" />
+        <option value="$PROJECT_DIR$/src/tanques3.html" />
+        <option value="$PROJECT_DIR$/src/tanques4.html" />
+        <option value="$PROJECT_DIR$/src/tanques5.html" />
+        <option value="$PROJECT_DIR$/src/tedeschi.html" />
+        <option value="$PROJECT_DIR$/src/tedeschi_acc.html" />
+        <option value="$PROJECT_DIR$/src/tp03.html" />
+        <option value="$PROJECT_DIR$/src/tp04.html" />
+        <option value="$PROJECT_DIR$/src/valtra.html" />
+        <option value="$PROJECT_DIR$/src/vialvieja.html" />
+        <option value="$PROJECT_DIR$/src/yale.html" />
+        <option value="$PROJECT_DIR$/out/production/tecnoPartes/metalfor.html" />
       </list>
     </option>
   </component>
@@ -284,9 +332,8 @@
     <option name="jreName" value="1.5" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1296" />
-    <option name="height" value="776" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -316,7 +363,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -367,86 +413,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tecnoPartes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tecnopartes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="productos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tecnoPartes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tecnopartes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="productos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="accesorios" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tecnoPartes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tecnopartes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="productos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="accesorios" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="claas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -460,6 +429,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.searchVisible" value="true" />
@@ -472,6 +442,9 @@
       <recent name="C:\Users\Damian\Desktop\Trabajo\tecnopartes\tecnopartes\src\img\productos\tp04" />
       <recent name="C:\Users\Damian\Desktop\Trabajo\tecnopartes\tecnopartes\src\img\productos\tp03" />
       <recent name="C:\Users\Damian\Desktop\Trabajo\tecnopartes\tecnopartes\src\img\productos\cj" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/img" />
     </key>
   </component>
   <component name="RunManager">
@@ -489,7 +462,7 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="sslv3">
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
     <option name="mySSHConnectionTimeout" value="30000" />
@@ -499,6 +472,7 @@
     <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
     <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
     <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
     <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
@@ -517,33 +491,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1296" height="776" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4832" sideWeight="0.6629393" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34079602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18579628" sideWeight="0.659204" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3419773" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -573,7 +547,7 @@
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
     <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
     <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
@@ -583,10 +557,6 @@
     <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
     <option name="LIMIT_HISTORY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
-    <option name="UPDATE_FILTER_SCOPE_NAME" />
-    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
-    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
-    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
@@ -600,7 +570,6 @@
     <option name="ACTIVE_VCS_NAME" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
-    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
@@ -612,109 +581,162 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/index.html">
+    <entry file="file://$PROJECT_DIR$/src/special.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="116" column="30" selection-start="4250" selection-end="4250" vertical-scroll-proportion="-0.65384614" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tp03.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="11749" vertical-scroll-proportion="-0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tedeschi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="11299" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/confort.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="158" column="58" selection-start="5451" selection-end="5451" vertical-scroll-proportion="0.50086653" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/metalfor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="300" column="7" selection-start="0" selection-end="11166" vertical-scroll-proportion="0.8232236" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spw.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="164" column="50" selection-start="5742" selection-end="5742" vertical-scroll-proportion="0.94107455" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/caiman.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="297" column="7" selection-start="0" selection-end="10977" vertical-scroll-proportion="-18.26923" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="186" column="59" selection-start="8387" selection-end="8397" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/seraf.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="164" column="52" selection-start="5761" selection-end="5761" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/apache.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="79" selection-start="4659" selection-end="4659" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/breso.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="165" column="29" selection-start="5767" selection-end="5767" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/favot.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="56" selection-start="4636" selection-end="4636" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/grigol.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="56" selection-start="4636" selection-end="4636" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/marani.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="56" selection-start="4636" selection-end="4636" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/multijacto.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="56" selection-start="4636" selection-end="4636" vertical-scroll-proportion="-0.625">
+        <state line="228" column="0" selection-start="8473" selection-end="8473" vertical-scroll-proportion="-7.25">
           <folding>
-            <element signature="n#style#0;n#p#1;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1376519955000" expanded="true" signature="1295:1365" placeholder="..." />
-            <marker date="1376519955000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+            <marker date="1379378429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1379378429000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/metalfor_acc.html">
+    <entry file="file://$PROJECT_DIR$/src/spw.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="170" column="45" selection-start="5457" selection-end="6560" vertical-scroll-proportion="0.5811808">
+        <state line="228" column="0" selection-start="8194" selection-end="8194" vertical-scroll-proportion="-7.25">
           <folding>
-            <marker date="1377286309000" expanded="true" signature="1295:1365" placeholder="..." />
-            <marker date="1377286309000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+            <marker date="1379378429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1379378429000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spw_acc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="227" column="0" selection-start="8118" selection-end="8118" vertical-scroll-proportion="-7.25">
+          <folding>
+            <marker date="1379378429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1379378429000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tanque1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="248" column="0" selection-start="8726" selection-end="8726" vertical-scroll-proportion="-7.25">
+          <folding>
+            <marker date="1379378429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1379378429000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tanques2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="230" column="0" selection-start="8350" selection-end="8350" vertical-scroll-proportion="-7.25">
+          <folding>
+            <marker date="1379378429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1379378429000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tanques3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="232" column="0" selection-start="8202" selection-end="8202" vertical-scroll-proportion="-7.25">
+          <folding>
+            <marker date="1379378429000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1379378429000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tanques4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="228" column="0" selection-start="8003" selection-end="8003" vertical-scroll-proportion="-7.25">
+          <folding>
+            <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tanques5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="229" column="0" selection-start="8019" selection-end="8019" vertical-scroll-proportion="-7.25">
+          <folding>
+            <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tedeschi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="231" column="0" selection-start="8513" selection-end="8513" vertical-scroll-proportion="-7.25">
+          <folding>
+            <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tedeschi_acc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="231" column="0" selection-start="8850" selection-end="8850" vertical-scroll-proportion="-7.0833335">
+          <folding>
+            <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tp03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="227" column="0" selection-start="8971" selection-end="8971" vertical-scroll-proportion="-7.0833335">
+          <folding>
+            <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tp04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="241" column="0" selection-start="9267" selection-end="9267" vertical-scroll-proportion="-7.0833335">
+          <folding>
+            <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/valtra.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="232" column="0" selection-start="8313" selection-end="8313" vertical-scroll-proportion="-7.25">
+          <folding>
+            <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vialvieja.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="227" column="0" selection-start="8218" selection-end="8218" vertical-scroll-proportion="-7.25">
+          <folding>
+            <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/yale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="233" column="70" selection-start="8339" selection-end="8393" vertical-scroll-proportion="-12.875">
+          <folding>
+            <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/tecnoPartes/metalfor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="267" column="46" selection-start="10139" selection-end="10139" vertical-scroll-proportion="0.33186814">
+          <folding>
+            <marker date="1379378429000" expanded="true" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
           </folding>
         </state>
       </provider>
