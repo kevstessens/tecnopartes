@@ -3,7 +3,7 @@
 $aviso = "";
 if ($_POST['email'] != "") {
     // email de destino
-    $email = "damianminniti@hotmail.com";
+    $email = "comercializacion@tecno-partes.com.ar";
 
     // asunto del email
     $subject = "Contacto";
