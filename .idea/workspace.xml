@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="3f80f12d-0a80-4215-aa38-bfc2bae4b307" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/style.css" afterPath="$PROJECT_DIR$/src/css/style.css" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/logo2.png" afterPath="$PROJECT_DIR$/src/img/logo2.png" />
+>>>>>>> header logo
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tecnoPartes.iws" />
@@ -54,7 +58,11 @@
     <file path="/caiman.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376494190851" ignored="false" />
     <file path="/breso.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376494362026" ignored="false" />
     <file path="/seraf.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1376494461076" ignored="false" />
+<<<<<<< HEAD
     <file path="/Dummy.txt" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1379699665993" ignored="false" />
+=======
+    <file path="/Dummy.txt" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1379517102488" ignored="false" />
+>>>>>>> header logo
     <file path="/metalfor_acc.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1377286288826" ignored="false" />
     <file path="/valtra.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1379376413486" ignored="false" />
     <file path="/apache_acc.html" changelist="3f80f12d-0a80-4215-aa38-bfc2bae4b307" time="1379377977242" ignored="false" />
@@ -116,11 +124,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
+=======
+      <file leaf-file-name="tanques5.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tanques5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="229" column="0" selection-start="8019" selection-end="8019" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1379378429000" expanded="false" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="false" signature="1305:1318" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> header logo
       <file leaf-file-name="tedeschi.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tedeschi.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="231" column="0" selection-start="8513" selection-end="8513" vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
               <folding />
+=======
+              <folding>
+                <marker date="1379378429000" expanded="false" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="false" signature="1305:1318" placeholder="/*...*/" />
+              </folding>
+>>>>>>> header logo
             </state>
           </provider>
         </entry>
@@ -129,7 +159,14 @@
         <entry file="file://$PROJECT_DIR$/src/tedeschi_acc.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="231" column="0" selection-start="8850" selection-end="8850" vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
               <folding />
+=======
+              <folding>
+                <marker date="1379378429000" expanded="false" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="false" signature="1305:1318" placeholder="/*...*/" />
+              </folding>
+>>>>>>> header logo
             </state>
           </provider>
         </entry>
@@ -138,7 +175,14 @@
         <entry file="file://$PROJECT_DIR$/src/tp03.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="227" column="0" selection-start="8971" selection-end="8971" vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
               <folding />
+=======
+              <folding>
+                <marker date="1379378429000" expanded="false" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="false" signature="1305:1318" placeholder="/*...*/" />
+              </folding>
+>>>>>>> header logo
             </state>
           </provider>
         </entry>
@@ -147,7 +191,14 @@
         <entry file="file://$PROJECT_DIR$/src/tp04.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="241" column="0" selection-start="9267" selection-end="9267" vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
               <folding />
+=======
+              <folding>
+                <marker date="1379378429000" expanded="false" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="false" signature="1305:1318" placeholder="/*...*/" />
+              </folding>
+>>>>>>> header logo
             </state>
           </provider>
         </entry>
@@ -156,7 +207,14 @@
         <entry file="file://$PROJECT_DIR$/src/valtra.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="232" column="0" selection-start="8313" selection-end="8313" vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
               <folding />
+=======
+              <folding>
+                <marker date="1379378429000" expanded="false" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="false" signature="1305:1318" placeholder="/*...*/" />
+              </folding>
+>>>>>>> header logo
             </state>
           </provider>
         </entry>
@@ -165,7 +223,14 @@
         <entry file="file://$PROJECT_DIR$/src/vialvieja.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="227" column="0" selection-start="8218" selection-end="8218" vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
               <folding />
+=======
+              <folding>
+                <marker date="1379378429000" expanded="false" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="false" signature="1305:1318" placeholder="/*...*/" />
+              </folding>
+>>>>>>> header logo
             </state>
           </provider>
         </entry>
@@ -174,6 +239,7 @@
         <entry file="file://$PROJECT_DIR$/src/yale.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="233" column="70" selection-start="8339" selection-end="8393" vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
               <folding />
             </state>
           </provider>
@@ -186,15 +252,27 @@
               <folding>
                 <marker date="1379419391424" expanded="true" signature="1295:1365" placeholder="..." />
                 <marker date="1379419391424" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+=======
+              <folding>
+                <marker date="1379378429000" expanded="false" signature="1295:1365" placeholder="..." />
+                <marker date="1379378429000" expanded="false" signature="1305:1318" placeholder="/*...*/" />
+>>>>>>> header logo
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+=======
+      <file leaf-file-name="metalfor.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/production/tecnoPartes/metalfor.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="267" column="46" selection-start="10139" selection-end="10139" vertical-scroll-proportion="-8.458333">
+>>>>>>> header logo
               <folding>
                 <marker date="1379419391682" expanded="true" signature="1295:1365" placeholder="..." />
                 <marker date="1379419391682" expanded="true" signature="1305:1318" placeholder="/*...*/" />
@@ -203,12 +281,19 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="65" column="13" selection-start="993" selection-end="993" vertical-scroll-proportion="0.29356357">
               <folding />
             </state>
+=======
+      <file leaf-file-name="logo2.png" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/img/logo2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+>>>>>>> header logo
           </provider>
         </entry>
       </file>
@@ -253,8 +338,14 @@
     <option name="jreName" value="1.5" />
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="width" value="1296" />
     <option name="height" value="816" />
+=======
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="874" />
+>>>>>>> header logo
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -338,6 +429,11 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+>>>>>>> header logo
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -350,11 +446,11 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -412,12 +508,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="0" y="0" width="1296" height="816" extended-state="0" />
     <editor active="true" />
+=======
+    <frame x="0" y="22" width="1440" height="874" extended-state="0" />
+    <editor active="false" />
+>>>>>>> header logo
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+=======
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+>>>>>>> header logo
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -432,7 +537,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18557537" sideWeight="0.659204" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18579628" sideWeight="0.659204" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> header logo
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -502,6 +611,16 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/src/spw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="228" column="0" selection-start="8194" selection-end="8194" vertical-scroll-proportion="-7.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> header logo
     <entry file="file://$PROJECT_DIR$/src/spw_acc.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="227" column="0" selection-start="8118" selection-end="8118" vertical-scroll-proportion="-7.25">
@@ -540,55 +659,105 @@
     <entry file="file://$PROJECT_DIR$/src/tanques5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="229" column="0" selection-start="8019" selection-end="8019" vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
           <folding />
+=======
+          <folding>
+            <marker date="1379378429000" expanded="false" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="false" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+>>>>>>> header logo
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tedeschi.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="231" column="0" selection-start="8513" selection-end="8513" vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
           <folding />
+=======
+          <folding>
+            <marker date="1379378429000" expanded="false" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="false" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+>>>>>>> header logo
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tedeschi_acc.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="231" column="0" selection-start="8850" selection-end="8850" vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
           <folding />
+=======
+          <folding>
+            <marker date="1379378429000" expanded="false" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="false" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+>>>>>>> header logo
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tp03.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="227" column="0" selection-start="8971" selection-end="8971" vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
           <folding />
+=======
+          <folding>
+            <marker date="1379378429000" expanded="false" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="false" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+>>>>>>> header logo
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tp04.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="241" column="0" selection-start="9267" selection-end="9267" vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
           <folding />
+=======
+          <folding>
+            <marker date="1379378429000" expanded="false" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="false" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+>>>>>>> header logo
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/valtra.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="232" column="0" selection-start="8313" selection-end="8313" vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
           <folding />
+=======
+          <folding>
+            <marker date="1379378429000" expanded="false" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="false" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+>>>>>>> header logo
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/vialvieja.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="227" column="0" selection-start="8218" selection-end="8218" vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
           <folding />
+=======
+          <folding>
+            <marker date="1379378429000" expanded="false" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="false" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+>>>>>>> header logo
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/yale.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="233" column="70" selection-start="8339" selection-end="8393" vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
           <folding />
         </state>
       </provider>
@@ -599,13 +768,22 @@
           <folding>
             <marker date="1379419391424" expanded="true" signature="1295:1365" placeholder="..." />
             <marker date="1379419391424" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+=======
+          <folding>
+            <marker date="1379378429000" expanded="false" signature="1295:1365" placeholder="..." />
+            <marker date="1379378429000" expanded="false" signature="1305:1318" placeholder="/*...*/" />
+>>>>>>> header logo
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+=======
+        <state line="267" column="46" selection-start="10139" selection-end="10139" vertical-scroll-proportion="-8.458333">
+>>>>>>> header logo
           <folding>
             <marker date="1379419391682" expanded="true" signature="1295:1365" placeholder="..." />
             <marker date="1379419391682" expanded="true" signature="1305:1318" placeholder="/*...*/" />
@@ -613,11 +791,17 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="65" column="13" selection-start="993" selection-end="993" vertical-scroll-proportion="0.29356357">
           <folding />
         </state>
+=======
+    <entry file="file://$PROJECT_DIR$/src/img/logo2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+>>>>>>> header logo
       </provider>
     </entry>
   </component>
