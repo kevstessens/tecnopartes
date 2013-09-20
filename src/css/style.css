@@ -63,7 +63,7 @@ body {
 #logo{
 	position: absolute;
 	top: 19px;
-	left: -120px;
+	left: 270px;
 }
 
 #content a{
@@ -138,7 +138,7 @@ body {
 	display: block;
 	position: absolute;
 	top: 12px;
-	left: 30px;
+	left: 280px;
 	height: 67px;
 	width: 906px;
 }
