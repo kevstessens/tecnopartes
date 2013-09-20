@@ -32,7 +32,7 @@ if ($_POST['email'] != "") {
         $aviso = "Su mensaje fue enviado.";
         echo $aviso;
         echo <<< HTML
-        <a href="http://damianminniti.com.ar/#!/page_Contact" class="button1" >Volver</a>
+        <a href="http://tecno-partes.com.ar/" class="button1" >Volver</a>
   <style type="text/css">
 body {
 font-weight: bold;
