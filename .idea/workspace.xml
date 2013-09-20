@@ -7,7 +7,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/tecnoPartes.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/apache_acc.html" afterPath="$PROJECT_DIR$/src/apache_acc.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/bc01.html" afterPath="$PROJECT_DIR$/src/bc01.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/bobcat.html" afterPath="$PROJECT_DIR$/src/bobcat.html" />
@@ -26,6 +25,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cuchas.html" afterPath="$PROJECT_DIR$/src/cuchas.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/deere.html" afterPath="$PROJECT_DIR$/src/deere.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/desarrollos.html" afterPath="$PROJECT_DIR$/src/desarrollos.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/enviar.php" afterPath="$PROJECT_DIR$/src/enviar.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/especial1.html" afterPath="$PROJECT_DIR$/src/especial1.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/especial2.html" afterPath="$PROJECT_DIR$/src/especial2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/favot.html" afterPath="$PROJECT_DIR$/src/favot.html" />
@@ -40,8 +40,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/marani.html" afterPath="$PROJECT_DIR$/src/marani.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/metalfor.html" afterPath="$PROJECT_DIR$/src/metalfor.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/metalfor_acc.html" afterPath="$PROJECT_DIR$/src/metalfor_acc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multijacto.html" afterPath="$PROJECT_DIR$/src/multijacto.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pla_acc.html" afterPath="$PROJECT_DIR$/src/pla_acc.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/proton.html" afterPath="$PROJECT_DIR$/src/proton.html" />
@@ -61,7 +59,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tp03.html" afterPath="$PROJECT_DIR$/src/tp03.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tp04.html" afterPath="$PROJECT_DIR$/src/tp04.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/valtra.html" afterPath="$PROJECT_DIR$/src/valtra.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vialvieja.html" afterPath="$PROJECT_DIR$/src/vialvieja.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/yale.html" afterPath="$PROJECT_DIR$/src/yale.html" />
@@ -69,7 +66,7 @@
     <ignored path="tecnopartes.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1379702746161" ignored="false" />
-    <file path="/a.dummy" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1379702844818" ignored="false" />
+    <file path="/a.dummy" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1379703075553" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,10 +89,31 @@
       <file leaf-file-name="apache_acc.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/apache_acc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="160" column="22" selection-start="5433" selection-end="5433" vertical-scroll-proportion="0.21518987">
+            <state line="180" column="23" selection-start="6356" selection-end="6356" vertical-scroll-proportion="0.21518987">
               <folding>
-                <marker date="1379702856000" expanded="true" signature="1295:1365" placeholder="..." />
-                <marker date="1379702856000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+                <marker date="1379703089000" expanded="true" signature="1295:1365" placeholder="..." />
+                <marker date="1379703089000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="features.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/features.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="172" column="39" selection-start="6013" selection-end="6013" vertical-scroll-proportion="-6.5416665">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="juegos.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/juegos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="198" column="123" selection-start="7554" selection-end="7554" vertical-scroll-proportion="-6.7083335">
+              <folding>
+                <marker date="1379703089000" expanded="true" signature="1295:1365" placeholder="..." />
+                <marker date="1379703089000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
               </folding>
             </state>
           </provider>
@@ -119,6 +137,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/src/features.html" />
+        <option value="$PROJECT_DIR$/src/juegos.html" />
         <option value="$PROJECT_DIR$/src/apache_acc.html" />
       </list>
     </option>
@@ -351,12 +371,29 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/features.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="172" column="39" selection-start="6013" selection-end="6013" vertical-scroll-proportion="-6.5416665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/juegos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="198" column="123" selection-start="7554" selection-end="7554" vertical-scroll-proportion="-6.7083335">
+          <folding>
+            <marker date="1379703089000" expanded="true" signature="1295:1365" placeholder="..." />
+            <marker date="1379703089000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/apache_acc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="160" column="22" selection-start="5433" selection-end="5433" vertical-scroll-proportion="0.21518987">
+        <state line="180" column="23" selection-start="6356" selection-end="6356" vertical-scroll-proportion="0.21518987">
           <folding>
-            <marker date="1379702856000" expanded="true" signature="1295:1365" placeholder="..." />
-            <marker date="1379702856000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+            <marker date="1379703089000" expanded="true" signature="1295:1365" placeholder="..." />
+            <marker date="1379703089000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
           </folding>
         </state>
       </provider>

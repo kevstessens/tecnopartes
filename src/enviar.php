@@ -51,7 +51,7 @@ text-decoration:none;
 </head>
 HTML;
     } else {
-        $aviso = "Error de envío.";
+        $aviso = "Error de env&iacuteo.";
         echo $aviso;
     }
 }
