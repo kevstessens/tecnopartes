@@ -7,66 +7,26 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/tecnoPartes.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/apache_acc.html" afterPath="$PROJECT_DIR$/src/apache_acc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/bc01.html" afterPath="$PROJECT_DIR$/src/bc01.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/bobcat.html" afterPath="$PROJECT_DIR$/src/bobcat.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/bounus.html" afterPath="$PROJECT_DIR$/src/bounus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/breso.html" afterPath="$PROJECT_DIR$/src/breso.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/caiman.html" afterPath="$PROJECT_DIR$/src/caiman.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cat.html" afterPath="$PROJECT_DIR$/src/cat.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/catd.html" afterPath="$PROJECT_DIR$/src/catd.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/caterpillar.html" afterPath="$PROJECT_DIR$/src/caterpillar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cj.html" afterPath="$PROJECT_DIR$/src/cj.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/claas_acc.html" afterPath="$PROJECT_DIR$/src/claas_acc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/clarck.html" afterPath="$PROJECT_DIR$/src/clarck.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/confort.html" afterPath="$PROJECT_DIR$/src/confort.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/contact.html" afterPath="$PROJECT_DIR$/src/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containera.html" afterPath="$PROJECT_DIR$/src/containera.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cuchas.html" afterPath="$PROJECT_DIR$/src/cuchas.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/deere.html" afterPath="$PROJECT_DIR$/src/deere.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/desarrollos.html" afterPath="$PROJECT_DIR$/src/desarrollos.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/enviar.php" afterPath="$PROJECT_DIR$/src/enviar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/especial1.html" afterPath="$PROJECT_DIR$/src/especial1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/especial2.html" afterPath="$PROJECT_DIR$/src/especial2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/favot.html" afterPath="$PROJECT_DIR$/src/favot.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/features.html" afterPath="$PROJECT_DIR$/src/features.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gallery-3.html" afterPath="$PROJECT_DIR$/src/gallery-3.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gallery.html" afterPath="$PROJECT_DIR$/src/gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/grigol.html" afterPath="$PROJECT_DIR$/src/grigol.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hj.html" afterPath="$PROJECT_DIR$/src/hj.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/holland.html" afterPath="$PROJECT_DIR$/src/holland.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/irchile.html" afterPath="$PROJECT_DIR$/src/irchile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/juegos.html" afterPath="$PROJECT_DIR$/src/juegos.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/marani.html" afterPath="$PROJECT_DIR$/src/marani.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/metalfor.html" afterPath="$PROJECT_DIR$/src/metalfor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/metalfor_acc.html" afterPath="$PROJECT_DIR$/src/metalfor_acc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/multijacto.html" afterPath="$PROJECT_DIR$/src/multijacto.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pla_acc.html" afterPath="$PROJECT_DIR$/src/pla_acc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/proton.html" afterPath="$PROJECT_DIR$/src/proton.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/rodillo.html" afterPath="$PROJECT_DIR$/src/rodillo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sanblas.html" afterPath="$PROJECT_DIR$/src/sanblas.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/seraf.html" afterPath="$PROJECT_DIR$/src/seraf.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/special.html" afterPath="$PROJECT_DIR$/src/special.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/spw.html" afterPath="$PROJECT_DIR$/src/spw.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/spw_acc.html" afterPath="$PROJECT_DIR$/src/spw_acc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tanque1.html" afterPath="$PROJECT_DIR$/src/tanque1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tanques2.html" afterPath="$PROJECT_DIR$/src/tanques2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tanques3.html" afterPath="$PROJECT_DIR$/src/tanques3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tanques4.html" afterPath="$PROJECT_DIR$/src/tanques4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tanques5.html" afterPath="$PROJECT_DIR$/src/tanques5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tedeschi.html" afterPath="$PROJECT_DIR$/src/tedeschi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tedeschi_acc.html" afterPath="$PROJECT_DIR$/src/tedeschi_acc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tp03.html" afterPath="$PROJECT_DIR$/src/tp03.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tp04.html" afterPath="$PROJECT_DIR$/src/tp04.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/valtra.html" afterPath="$PROJECT_DIR$/src/valtra.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vialvieja.html" afterPath="$PROJECT_DIR$/src/vialvieja.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/yale.html" afterPath="$PROJECT_DIR$/src/yale.html" />
     </list>
     <ignored path="tecnopartes.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1379702746161" ignored="false" />
-    <file path="/a.dummy" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1379703075553" ignored="false" />
+    <file path="/Dummy.txt" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1381096790021" ignored="false" />
+    <file path="/a.dummy" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1380562864137" ignored="false" />
+    <file path="/index.html" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1380562061290" ignored="false" />
+    <file path="/features.html" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1380562702462" ignored="false" />
+    <file path="/gallery-3.html" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1381096930357" ignored="false" />
+    <file path="/gallery-main.html" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1381099741667" ignored="false" />
+    <file path="/gallery-agricolas.html" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1381099831279" ignored="false" />
+    <file path="/gallery.html" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1381100465587" ignored="false" />
+    <file path="/gallery-adaptables.html" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1381100004616" ignored="false" />
+    <file path="/gallery-elevadores.html" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1381100063269" ignored="false" />
+    <file path="/gallery-viales.html" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1381100136246" ignored="false" />
+    <file path="/gallery-tanques.html" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1381100187243" ignored="false" />
+    <file path="/gallery-accesorios.html" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1381100261712" ignored="false" />
+    <file path="/gallery-exterior.html" changelist="642968c2-e7a3-4f9b-9a2c-937969aec85c" time="1381100393771" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,34 +46,121 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="apache_acc.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/apache_acc.html">
+      <file leaf-file-name="gallery-3.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gallery-3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="180" column="23" selection-start="6356" selection-end="6356" vertical-scroll-proportion="0.21518987">
+            <state line="143" column="0" selection-start="5142" selection-end="5142" vertical-scroll-proportion="-19.375">
               <folding>
-                <marker date="1379703089000" expanded="true" signature="1295:1365" placeholder="..." />
-                <marker date="1379703089000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+                <marker date="1381099863000" expanded="true" signature="1421:1491" placeholder="..." />
+                <marker date="1381099863000" expanded="true" signature="1431:1444" placeholder="/*...*/" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="features.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/features.html">
+      <file leaf-file-name="gallery-agricolas.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gallery-agricolas.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="172" column="39" selection-start="6013" selection-end="6013" vertical-scroll-proportion="-6.5416665">
-              <folding />
+            <state line="105" column="15" selection-start="3920" selection-end="3920" vertical-scroll-proportion="13.75">
+              <folding>
+                <element signature="n#style#0;n#a#0;n#span#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="juegos.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/juegos.html">
+      <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="198" column="123" selection-start="7554" selection-end="7554" vertical-scroll-proportion="-6.7083335">
+            <state line="157" column="58" selection-start="6877" selection-end="6877" vertical-scroll-proportion="-11.875">
               <folding>
-                <marker date="1379703089000" expanded="true" signature="1295:1365" placeholder="..." />
-                <marker date="1379703089000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+                <marker date="1381100479000" expanded="true" signature="1422:1492" placeholder="..." />
+                <marker date="1381100479000" expanded="true" signature="1432:1445" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery-exterior.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/gallery-exterior.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="148" column="93" selection-start="5547" selection-end="5547" vertical-scroll-proportion="0.6947674">
+              <folding>
+                <marker date="1381100523000" expanded="true" signature="1422:1492" placeholder="..." />
+                <marker date="1381100523000" expanded="true" signature="1432:1445" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery-accesorios.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gallery-accesorios.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="156" column="15" selection-start="6330" selection-end="6330" vertical-scroll-proportion="-0.625">
+              <folding>
+                <marker date="1381100281000" expanded="true" signature="1422:1492" placeholder="..." />
+                <marker date="1381100281000" expanded="true" signature="1432:1445" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery-viales.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gallery-viales.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="171" column="15" selection-start="7848" selection-end="7848" vertical-scroll-proportion="-0.625">
+              <folding>
+                <marker date="1381100158000" expanded="true" signature="1422:1492" placeholder="..." />
+                <marker date="1381100158000" expanded="true" signature="1432:1445" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery-tanques.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gallery-tanques.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="144" column="0" selection-start="5201" selection-end="5201" vertical-scroll-proportion="-0.625">
+              <folding>
+                <marker date="1381100252000" expanded="true" signature="1422:1492" placeholder="..." />
+                <marker date="1381100252000" expanded="true" signature="1432:1445" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery-elevadores.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gallery-elevadores.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="151" column="15" selection-start="6055" selection-end="6055" vertical-scroll-proportion="-0.625">
+              <folding>
+                <marker date="1381100090000" expanded="true" signature="1422:1492" placeholder="..." />
+                <marker date="1381100090000" expanded="true" signature="1432:1445" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery-adaptables.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gallery-adaptables.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="152" column="15" selection-start="6275" selection-end="6275" vertical-scroll-proportion="-0.625">
+              <folding>
+                <marker date="1381100013000" expanded="true" signature="1422:1492" placeholder="..." />
+                <marker date="1381100013000" expanded="true" signature="1432:1445" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="caiman.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/caiman.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="109" column="41" selection-start="3926" selection-end="3926" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1381099863000" expanded="true" signature="1295:1365" placeholder="..." />
+                <marker date="1381099863000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
               </folding>
             </state>
           </provider>
@@ -137,9 +184,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/src/bobcat.html" />
+        <option value="$PROJECT_DIR$/src/bounus.html" />
+        <option value="$PROJECT_DIR$/src/breso.html" />
+        <option value="$PROJECT_DIR$/src/caiman.html" />
         <option value="$PROJECT_DIR$/src/features.html" />
-        <option value="$PROJECT_DIR$/src/juegos.html" />
         <option value="$PROJECT_DIR$/src/apache_acc.html" />
+        <option value="$PROJECT_DIR$/src/gallery-3.html" />
+        <option value="$PROJECT_DIR$/src/gallery-main.html" />
+        <option value="$PROJECT_DIR$/src/gallery-agricolas.html" />
+        <option value="$PROJECT_DIR$/src/gallery-adaptables.html" />
+        <option value="$PROJECT_DIR$/src/gallery-elevadores.html" />
+        <option value="$PROJECT_DIR$/src/gallery-viales.html" />
+        <option value="$PROJECT_DIR$/src/gallery-tanques.html" />
+        <option value="$PROJECT_DIR$/src/gallery-accesorios.html" />
+        <option value="$PROJECT_DIR$/src/gallery.html" />
+        <option value="$PROJECT_DIR$/src/gallery-exterior.html" />
       </list>
     </option>
   </component>
@@ -175,7 +235,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,16 +267,99 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnopartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnopartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnopartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnopartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="productos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnopartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnopartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnopartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tecnopartes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.sourceCode" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
@@ -276,6 +418,13 @@
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -289,25 +438,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="29" width="1420" height="860" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896462" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.6710354" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26055312" sideWeight="0.67189544" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3281046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -371,29 +520,153 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/features.html">
+    <entry file="file://$PROJECT_DIR$/src/bc01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="172" column="39" selection-start="6013" selection-end="6013" vertical-scroll-proportion="-6.5416665">
+        <state line="109" column="41" selection-start="3926" selection-end="3926" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/juegos.html">
+    <entry file="file://$PROJECT_DIR$/src/bobcat.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="198" column="123" selection-start="7554" selection-end="7554" vertical-scroll-proportion="-6.7083335">
+        <state line="109" column="41" selection-start="3926" selection-end="3926" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bounus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="41" selection-start="3926" selection-end="3926" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/breso.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="41" selection-start="3926" selection-end="3926" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1379703089000" expanded="true" signature="1295:1365" placeholder="..." />
-            <marker date="1379703089000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+            <marker date="1381099863000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1381099863000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/caiman.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="41" selection-start="3926" selection-end="3926" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1381099863000" expanded="true" signature="1295:1365" placeholder="..." />
+            <marker date="1381099863000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="19" selection-start="4793" selection-end="4793" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1381099863000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1381099863000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/apache_acc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="180" column="23" selection-start="6356" selection-end="6356" vertical-scroll-proportion="0.21518987">
+        <state line="247" column="23" selection-start="9406" selection-end="9406" vertical-scroll-proportion="-8.791667">
           <folding>
-            <marker date="1379703089000" expanded="true" signature="1295:1365" placeholder="..." />
-            <marker date="1379703089000" expanded="true" signature="1305:1318" placeholder="/*...*/" />
+            <marker date="1381099863000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1381099863000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gallery-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="143" column="0" selection-start="5142" selection-end="5142" vertical-scroll-proportion="-19.375">
+          <folding>
+            <marker date="1381099863000" expanded="true" signature="1421:1491" placeholder="..." />
+            <marker date="1381099863000" expanded="true" signature="1431:1444" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gallery-agricolas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="15" selection-start="3920" selection-end="3920" vertical-scroll-proportion="13.75">
+          <folding>
+            <element signature="n#style#0;n#a#0;n#span#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gallery-adaptables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="152" column="15" selection-start="6275" selection-end="6275" vertical-scroll-proportion="-0.625">
+          <folding>
+            <marker date="1381100013000" expanded="true" signature="1422:1492" placeholder="..." />
+            <marker date="1381100013000" expanded="true" signature="1432:1445" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gallery-elevadores.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="151" column="15" selection-start="6055" selection-end="6055" vertical-scroll-proportion="-0.625">
+          <folding>
+            <marker date="1381100090000" expanded="true" signature="1422:1492" placeholder="..." />
+            <marker date="1381100090000" expanded="true" signature="1432:1445" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gallery-viales.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="171" column="15" selection-start="7848" selection-end="7848" vertical-scroll-proportion="-0.625">
+          <folding>
+            <marker date="1381100158000" expanded="true" signature="1422:1492" placeholder="..." />
+            <marker date="1381100158000" expanded="true" signature="1432:1445" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gallery-tanques.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="144" column="0" selection-start="5201" selection-end="5201" vertical-scroll-proportion="-0.625">
+          <folding>
+            <marker date="1381100252000" expanded="true" signature="1422:1492" placeholder="..." />
+            <marker date="1381100252000" expanded="true" signature="1432:1445" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gallery-accesorios.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="15" selection-start="6330" selection-end="6330" vertical-scroll-proportion="-0.625">
+          <folding>
+            <marker date="1381100281000" expanded="true" signature="1422:1492" placeholder="..." />
+            <marker date="1381100281000" expanded="true" signature="1432:1445" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="157" column="58" selection-start="6877" selection-end="6877" vertical-scroll-proportion="-11.875">
+          <folding>
+            <marker date="1381100479000" expanded="true" signature="1422:1492" placeholder="..." />
+            <marker date="1381100479000" expanded="true" signature="1432:1445" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gallery-exterior.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="148" column="93" selection-start="5547" selection-end="5547" vertical-scroll-proportion="0.6947674">
+          <folding>
+            <marker date="1381100523000" expanded="true" signature="1422:1492" placeholder="..." />
+            <marker date="1381100523000" expanded="true" signature="1432:1445" placeholder="/*...*/" />
           </folding>
         </state>
       </provider>
