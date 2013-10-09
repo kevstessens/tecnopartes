@@ -49,6 +49,12 @@
 	display: block;
 }
 
+.center{
+
+    margin:auto;
+    display: block;
+}
+
 /* BLOCKS ------------------------------------------------------------*/
 
 .boxed{
